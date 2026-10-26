@@ -1,0 +1,2 @@
+# Keep initial setup lightweight; add dependencies as needed.
+pytest>=8.0
